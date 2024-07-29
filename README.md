@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-dks;l
+This is a command line application that helps generate high-quality README.me files. It prompts the user to input the information and creates a detailed README with clickable sections.
 
 ## Table of Contents
 - [Description](#description)
@@ -15,20 +15,14 @@ dks;l
 - [Questions](#questions)
 
 ## Installation
-dksfjl;
+Clone the repository and install the necessary dependencies.
 
 ## Usage
-fkjdls;fs
+Run the application using node index.js. Answer the prompts to provide the desired information about the user project. A new README file will gernerate with a unique name. 
 
 ## License
 This project is licensed under the MIT license. For more information, please visit [MIT](https://opensource.org/licenses/MIT).
 
 
-## Contributing
-fkdslfjd
-
-## Tests
-fjkdsl
-
-## Questions
-If you have any questions, you can find me on GitHub: [sdkjfl](https://github.com/sdkjfl) or you can email me at: fkjdslfs@jkfs.com.
+## Credits
+Sabrina Sawyer - https://github.com/Sabrina-Sawyer
