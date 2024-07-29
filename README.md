@@ -19,6 +19,7 @@ Clone the repository and install the necessary dependencies.
 
 ## Usage
 Run the application using node index.js. Answer the prompts to provide the desired information about the user project. A new README file will gernerate with a unique name. 
+View video here https://drive.google.com/file/d/17ySms6hc9TiOss_MioBmxGORgUBe2juV/view?usp=sharing
 
 ## License
 This project is licensed under the MIT license. For more information, please visit [MIT](https://opensource.org/licenses/MIT).
